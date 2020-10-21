@@ -1,6 +1,6 @@
-##README
+## README
 
-##Create With Code - Unity Game Jam 2020
+### Create With Code - Unity Game Jam 2020
 
 Team Members
 @Azrael
